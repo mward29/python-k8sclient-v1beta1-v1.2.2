@@ -1,0 +1,1 @@
+# python-k8sclient-v1beta1-v1.2.2
