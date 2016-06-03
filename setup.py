@@ -3,7 +3,7 @@
 import sys
 from setuptools import setup, find_packages
 
-NAME = "swagger_client"
+NAME = "k8s_v1beta1"
 VERSION = "1.2.0"
 
 
